@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [COMING SOON]<!-- (COMING SOON)-->
 
-- 📫 How to reach me **send me a dm!**
+- 📫 How to reach me **send me a dm through social media!**
 
 - 📄 Know about my experiences [COMING SOON]<!-- (COMING SOON)-->
 
