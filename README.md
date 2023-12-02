@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/cuveliertristan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cuveliertristan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tristancuvelier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristancuvelier" height="30" width="40" /></a>
-<a href="https://fb.com/cuveliertristan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cuveliertristan" height="30" width="40" /></a>
 <a href="https://instagram.com/tristancuvelier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tristancuvelier" height="30" width="40" /></a>
 </p>
 
