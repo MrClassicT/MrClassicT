@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **various projects**
 
-- 🌱 I’m currently studying Applied IT at **HoGent**
+- 🌱 I’m currently studying Applied IT at **HOGENT**
 
 - 👯 I’m looking to collaborate on **all kinds of stuff**
 
-- 👨‍💻 All of my projects are available at [COMING SOON]<!-- (COMING SOON)-->
+- 👨‍💻 All of my projects are available at [https://mrclassict.github.io/](https://mrclassict.github.io/)
 
 - 📫 How to reach me **send me a dm through social media!**
 
