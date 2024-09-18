@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/cuveliertristan" target="blank"><img src="https://img.shields.io/twitter/follow/cuveliertristan?logo=twitter&style=for-the-badge" alt="cuveliertristan" /></a> </p>
 
-- 🔭 I’m currently working on **various projects**
+- 🔭 I’m currently working at AE NV.
 
-- 🌱 I’m currently studying Applied IT at **HOGENT**
+- 🌱 I graduated in Applied IT at **HOGENT**
 
 - 👯 I’m looking to collaborate on **all kinds of stuff**
 
