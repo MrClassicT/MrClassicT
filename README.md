@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **send me a dm through social media!**
 
-- 📄 Know about my experiences [COMING SOON]<!-- (COMING SOON)-->
+<!-- - 📄 Know about my experiences [COMING SOON](COMING SOON)-->
 
 - ⚡ Fun fact **Miata Is Always The Answer**
 
